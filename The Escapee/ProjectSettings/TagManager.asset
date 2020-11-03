@@ -53,9 +53,12 @@ TagManager:
   - name: decoration
     uniqueID: 2180320287
     locked: 0
-  - name: Player
-    uniqueID: 2168686011
-    locked: 0
   - name: Wall
     uniqueID: 3957161787
+    locked: 0
+  - name: Sidewall
+    uniqueID: 157951539
+    locked: 0
+  - name: Player
+    uniqueID: 2168686011
     locked: 0
