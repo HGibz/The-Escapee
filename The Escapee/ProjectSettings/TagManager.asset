@@ -56,6 +56,12 @@ TagManager:
   - name: Wall
     uniqueID: 3957161787
     locked: 0
+  - name: worktop
+    uniqueID: 1658775247
+    locked: 0
+  - name: sink
+    uniqueID: 1650468055
+    locked: 0
   - name: Sidewall
     uniqueID: 157951539
     locked: 0

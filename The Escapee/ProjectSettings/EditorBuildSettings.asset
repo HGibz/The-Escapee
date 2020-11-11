@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/First Puzzle.unity
     guid: 5dcba794a1a8d4341afcb2b56c7a2c6d
+  - enabled: 1
+    path: Assets/Scenes/Level 2.unity
+    guid: 1bb097784dab140459879bea2848763f
   m_configObjects: {}
