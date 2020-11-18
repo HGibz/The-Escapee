@@ -62,6 +62,9 @@ TagManager:
   - name: sink
     uniqueID: 1650468055
     locked: 0
+  - name: shadow
+    uniqueID: 2492849389
+    locked: 0
   - name: Sidewall
     uniqueID: 157951539
     locked: 0
